@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #533c2b;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #8d4502;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}html {
+  height: 100%;
+  width: 100%;
+}/* Existing CSS styles */
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+#episodes-list div,
+#characters-list div,
+#fan-creations-list div,
+#books-list div,
+#comic-books-list div {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+#episodes-list h3,
+#characters-list h3,
+#fan-creations-list h3,
+#books-list h3,
+#comic-books-list h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+#episodes-list p,
+#characters-list p,
+#fan-creations-list p,
+#books-list p,
+#comic-books-list p {
+    margin: 5px 0;
+    color: #666;
+}/* Existing CSS styles */
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+#episodes-list div,
+#characters-list div,
+#fan-creations-list div,
+#books-list div,
+#comic-books-list div {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+#episodes-list h3,
+#characters-list h3,
+#fan-creations-list h3,
+#books-list h3,
+#comic-books-list h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+#episodes-list p,
+#characters-list p,
+#fan-creations-list p,
+#books-list p,
+#comic-books-list p {
+    margin: 5px 0;
+    color: #bd0505;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
